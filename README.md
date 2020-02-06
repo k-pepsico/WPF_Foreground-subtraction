@@ -1,11 +1,11 @@
 # WPF Binding Sample
 
-WPFによるData Bindingの最小サンプルです．  
+WPFによるData Bindingの最小サンプルを元に写真から背景画像のみ切り出すキラーカメラを非同期処理で実装しました．
 WPF on .NET Coreを使用．
 
 ## 解説
 
-[wiki](https://dev.vcl.jp/t-chiba/wpf-binding-sample/wikis)に書く予定．
+どこかに書く予定．
 
 ## 推奨環境
 
